@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "327876214507",
+    "firebase_url": "https://fasheonic-895ca.firebaseio.com",
+    "project_id": "fasheonic-895ca",
+    "storage_bucket": "fasheonic-895ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327876214507:android:1af9490ac553c1606888ae",
+        "android_client_info": {
+          "package_name": "com.fasheonic.fasheonic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327876214507-j55do0eei3o9i30ttcl8pddo96l4rmu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fasheonic.fasheonic",
+            "certificate_hash": "b2c3113343a725406813ed1ffbcf88e28e46c5d6"
+          }
+        },
+        {
+          "client_id": "327876214507-tqep3ldoj380i8p798ojphv3ueemck3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fasheonic.fasheonic",
+            "certificate_hash": "f2026d6dae00a9550041476d60b6048540df5e69"
+          }
+        },
+        {
+          "client_id": "327876214507-eh1tosud13imdr46bh775a45gh0tpemu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk06WpgJetxi2FDbWOY5gK4LGqFV2fYa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327876214507-eh1tosud13imdr46bh775a45gh0tpemu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
